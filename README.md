@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **sahilkatrodiyalwt@gmail.com**
 
-- ⚡ Fun fact **I think I an funny**
+- **Learn Something about everything and everything about something.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
