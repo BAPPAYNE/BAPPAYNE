@@ -22,6 +22,5 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/BAPPAYNE.png" onclick="https://tryhackme-badges.s3.amazonaws.com/BAPPAYNE.png" alt="TryHackMe">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bappayne&show_icons=true&locale=en&layout=compact" alt="bappayne" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bappayne&" alt="bappayne" /></p>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1186143" style='border:none;'></iframe>
+<p><img align="center" src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1186143" alt="bappayne" /></p>
 
