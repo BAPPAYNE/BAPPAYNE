@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Network Security**
 
-- 📫 How to reach me **bappaynebaatli.hk@gmail.com**
+- 📫 How to reach me **bappaynelwt@gmail.com**
 
 - **Learn Something About Everything and Everything About Something.**
 
